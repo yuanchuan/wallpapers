@@ -1,4 +1,4 @@
-Picked background pictures generated with code:
+Picked background pictures generated with code. Licensed under [CC BY-ND 2.0](https://creativecommons.org/licenses/by-nd/2.0/). 
 
 <br />
 
